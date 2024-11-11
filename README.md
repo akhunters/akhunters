@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a fullstack software engineer working with ReactJS and NodeJS.
+
+[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhunters)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **akhunters/akhunters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
